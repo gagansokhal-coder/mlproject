@@ -149,7 +149,7 @@ activemq-data/
 *.sage.py
 
 # Environments
-artifacts/
+# artifacts/  — DO NOT ignore: model.pkl & preprocessor.pkl are needed at runtime
 .env
 .envrc
 .venv
