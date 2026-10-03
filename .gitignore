@@ -150,6 +150,7 @@ activemq-data/
 
 # Environments
 # artifacts/  — DO NOT ignore: model.pkl & preprocessor.pkl are needed at runtime
+artifacts/*.csv
 .env
 .envrc
 .venv
